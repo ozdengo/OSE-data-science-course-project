@@ -1,0 +1,16 @@
+name: student_project
+
+dependencies:
+  - numpy
+  - pandas
+  - conda-forge::pyreadstat==0.3.3
+  - scikit-learn
+  - jupyterlab
+  - IPython
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - pip
+  - pip:
+    - stargazer==0.0.5
